@@ -1,0 +1,39 @@
+/* COLORS: #2b2052, #cda3cc, #9ebbd1, #7f6a8f,
+#314a84 */
+
+body {
+  background-color: #2b2052;
+  font-family: Calibri, sans-serif;
+}
+
+.other {
+    color: #cda3cc
+}
+
+.img-one {
+    height: 100px;
+    width: 500px
+}
+
+#title {
+    font-size: 40px
+}
+
+#main-heading {
+    color: #7f6a8f;
+    font-size: 35px
+}
+
+#lesser-heading {
+    color: #314a84;
+    font-size: 30px
+}
+
+p { 
+    color: #9ebbd1;
+    font-size: 20px
+}
+
+.img-two {
+    width: 650px
+}
